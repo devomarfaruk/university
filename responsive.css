@@ -1,48 +1,65 @@
-@media all and (max-width: 770px){
-	.banner-text h1{
+@media all and (max-width: 770px) {
+	.banner-text h1 {
 		font-size: 44px;
 	}
-	.banner-btn a{
+
+	.banner-btn {
+		margin: 50px auto 0;
+	}
+
+	.banner-btn a {
 		display: block;
 		margin: 12px auto;
 	}
-	.title-text h1{
+
+	.title-text h1 {
 		font-size: 30px;
 	}
-	.features{
+
+	.features {
 		flex-basis: 100%;
 	}
-	.feature-img{
+
+	.feature-img {
 		flex-basis: 100%;
 	}
-	.feature-img img{
+
+	.feature-img img {
 		width: 100%;
 	}
-	.single-Service{
+
+	.single-Service {
 		flex-basis: 100%;
 		margin-bottom: 30px;
 	}
-	.Service-decs p{
+
+	.Service-decs p {
 		font-size: 16px;
 
 	}
-	hr{
+
+	hr {
 		margin: 10px auto;
 	}
-	.Service-decs{
+
+	.Service-decs {
 		width: 60%;
 	}
-	.Service-decs h3{
+
+	.Service-decs h3 {
 		font-size: 30px;
 	}
-	.testimonial-col{
+
+	.testimonial-col {
 		flex-basis: 100%;
 	}
+
 	.footer-left {
 		flex-basis: 100%;
 		font-size: 25px;
 	}
-	.footer-right{
+
+	.footer-right {
 		flex-basis: 100%;
 		text-align: left;
 		font-size: 25px;
